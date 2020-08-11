@@ -1,5 +1,5 @@
 
-### __*Note taker*__
+# __*Note taker*__
 ![GitHub](https://img.shields.io/github/license/jdouglasr/note-taker)
 ## __License__
 MIT
