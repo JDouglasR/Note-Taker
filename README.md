@@ -14,7 +14,7 @@ Notes Page:
 ![Notes page of Note-Taker](/pics/notes-html.png)
 
 ### __Installation__
-  installation: 'This project has dependencies on Express, Path, and FS.  You will need to have Node installed and then run ```npm install express``` to be able to run.  To run the program locally, you can either install ![Nodemon](https://nodemon.io/) or just run ```node server.js```.  After this step, open your browser and navigate to ```localhost:3000```.  This should display the app.
+This project has dependencies on Express, Path, and FS.  You will need to have Node installed and then run ```npm install express``` to be able to run.  To run the program locally, you can either install ![Nodemon](https://nodemon.io/) or just run ```node server.js```.  After this step, open your browser and navigate to ```localhost:3000```.  This should display the app.
 
 ### __Usage__
 ![Note-Taker Demo](/pics/Note-Taker.gif)
